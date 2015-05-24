@@ -44,7 +44,6 @@ To see the changes which between any two lessons use the git diff command.
 - Add ngApp directive to bootstrap the app
 - Add simple template with an expression
 
-
 ### step-1
 
 - Add static html list with two phones into index.html. We will convert this static page into
